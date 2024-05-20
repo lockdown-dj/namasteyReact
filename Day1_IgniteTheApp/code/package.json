@@ -1,0 +1,22 @@
+{
+  "name": "day2--ignite-the-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lockdown-dj/namasteyReact.git"
+  },
+  "author": "Dhananjai Chitranshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lockdown-dj/namasteyReact/issues"
+  },
+  "homepage": "https://github.com/lockdown-dj/namasteyReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}

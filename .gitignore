@@ -1,0 +1,6 @@
+/node_modules/
+/Day0_Pilot/node_modules/*
+/Day1_IgniteTheApp/code/node_modules/*
+/Day2_LayingTheFoundataion/node_modules/*
+/Day2_LayingTheFoundataion/dist/*
+/Day2_LayingTheFoundataion/.parcel-cache/*
